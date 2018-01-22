@@ -51,3 +51,5 @@ test:
 production:
   <<: *default
   database: rails-demo_production
+  username: dana
+  password: badpass
